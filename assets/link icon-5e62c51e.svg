@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="95" height="85" viewBox="0 0 95 85">
+  <g id="link_icon" data-name="link icon" transform="translate(0 -0.192)">
+    <g id="Rectangle_3" data-name="Rectangle 3" transform="translate(0 0.192)" fill="#fff" stroke="#707070" stroke-width="1">
+      <rect width="95" height="85" rx="10" stroke="none"/>
+      <rect x="0.5" y="0.5" width="94" height="84" rx="9.5" fill="none"/>
+    </g>
+    <path id="Icon_material-insert-link" data-name="Icon material-insert-link" d="M9.2,26.826A10.131,10.131,0,0,1,19.326,16.7H32.387V10.5H19.326a16.326,16.326,0,0,0,0,32.652H32.387v-6.2H19.326A10.131,10.131,0,0,1,9.2,26.826Zm13.387,3.265H48.713v-6.53H22.591ZM51.978,10.5H38.917v6.2H51.978a10.122,10.122,0,0,1,0,20.244H38.917v6.2H51.978a16.326,16.326,0,0,0,0-32.652Z" transform="translate(12.233 15.206)" fill="#880bdf" opacity="0.72"/>
+  </g>
+</svg>
